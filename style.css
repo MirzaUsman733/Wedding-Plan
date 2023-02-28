@@ -1,0 +1,63 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: #E5E5E5;
+    max-width: 100%;
+    font-family: "Poppins", sans-serif;
+}
+
+#caurosol{
+    position: absolute;
+    top: 132px;
+    left: 153px;
+}
+
+.drop{
+    margin-left: -50px;
+    color: rgba(235, 40, 105, 0.918);
+}
+::placeholder{
+    color: rgba(235, 40, 105, 0.918);
+    caret-color: pink;
+}
+.value{
+    outline: none;
+    caret-color: pink;
+}
+.txt{
+    font-size: 62px;
+}
+.pnk{
+    margin-top: 8%;
+    color: rgba(235, 40, 105, 0.918);
+}
+.ze{
+    font-size: 45px;
+}
+.ponk{
+    color: rgba(235, 40, 105, 0.918);
+
+}
+.pic{
+    background-color: white;
+    
+}
+.rad{
+    position: absolute;
+    top: 65%;
+    bottom: 0;
+    left: 20px;
+}
+.chan{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.list{
+    list-style-type: none;
+}
+.list>li>a{
+    text-decoration: none;
+    color: white;
+}
