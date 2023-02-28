@@ -10,7 +10,7 @@ body{
 #caurosol{
     position: absolute;
     top: 132px;
-    left: 153px;
+    left: 130px;
 }
 
 .drop{
@@ -30,7 +30,7 @@ body{
     caret-color: pink;
 }
 .txt{
-    font-size: 62px;
+    font-size: 48px;
 }
 .pnk{
     margin-top: 8%;
