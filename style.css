@@ -21,6 +21,10 @@ body{
     color: rgba(235, 40, 105, 0.918);
     caret-color: pink;
 }
+.fnt{
+    font-size: 13px;
+    font-weight: bold;
+}
 .value{
     outline: none;
     caret-color: pink;
