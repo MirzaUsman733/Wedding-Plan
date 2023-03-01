@@ -57,8 +57,7 @@ body{
 }
 .rad{
     position: absolute;
-    top: 65%;
-    bottom: 0;
+    bottom: 10px;
     left: 20px;
 }
 .chan{
@@ -85,6 +84,11 @@ body{
   .txt{
     font-size: 36px;
   }
+  .rad{
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
   }
   @media screen and (max-width: 425px) {
     #hero{
@@ -107,4 +111,9 @@ body{
   .value{
     width:130px
   }
+  
+.abi{
+    font-size: 10px;
+
+}
   }
